@@ -4,9 +4,8 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		
-		int a = 10;
-		int b = 20;
+		System.out.println("Hello World");
+		System.out.println("日本電子専門学校");
 	}
 
 }
